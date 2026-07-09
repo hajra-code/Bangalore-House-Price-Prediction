@@ -33,15 +33,9 @@ The project was built using Python, Machine Learning, Flask, HTML, CSS, and Java
 - JavaScript
 
 
-## 📂 Project Structure
+## Live Demo
 
-```
-client/
-server/
-model/
-README.md
-
-```
+🌐 https://hajra-code.github.io/Bangalore-House-Price-Prediction/
 
 
 ## 📸 Screenshots
